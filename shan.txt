@@ -1,1 +1,3 @@
 Selenium is open source automation tool.
+
+Jenkins is used for scheduling of automation test script.
